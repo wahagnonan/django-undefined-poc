@@ -3,7 +3,7 @@
 **Proposal:** *Add ergonomic control over behaviour of missing variables in templates*  
 **Issue:** [django/new-features#5](https://github.com/django/new-features/issues/5)  
 **Ticket:** [#28618](https://code.djangoproject.com/ticket/28618) (open since 2017)  
-**Author:** [Ton nom] — GSoC 2026 applicant
+**Author:** soro wahagnonan jean — GSoC 2026 applicant
 
 ---
 
